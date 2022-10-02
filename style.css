@@ -131,4 +131,8 @@ body {
   .container button  {
     font-size: 14px;
 }
+.text-input textarea {
+  font-size: 14px;
+ 
+}
 }
